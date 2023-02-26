@@ -1,0 +1,2 @@
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Packages/com.ptc.vuforia.engine-10.13.3.tgz filter=lfs diff=lfs merge=lfs -text
